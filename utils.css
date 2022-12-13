@@ -1,0 +1,50 @@
+html{
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+
+}
+.flex{
+    display: flex;
+}
+
+.container{
+    margin:auto;
+
+    
+
+}
+.items-center{
+align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.mx-2{
+margin-left: 12px;
+margin-right: 12px;
+}
+nav{
+    font-size: 14px;
+    font-weight: 650;
+    color: #282c3f;
+    padding-top: 14px;
+}
+.searchBar{
+    width: 23vw;
+    border-radius: 5px;
+    height: 20px;
+    padding: 8px 10px 10px;
+    margin: 0;
+    outline: 0;
+    border: 1px solid #f5f5f6;
+    border-radius: 4px;
+    border-left: 0;
+    background: #f5f5f6;
+}
+.homepng{
+    width: 100%;
+    height: auto;
+}
