@@ -38,6 +38,7 @@ nav ul {
     background-color: #f2f2f2;
     justify-content: center;
     align-items: center;
+    border:5px red;
     
 
 }
@@ -46,11 +47,20 @@ nav ul {
     margin: 10px 50px 50px 80px;
     align-items: center;
     width: 950px;
+    border: 10px red;
+}
+.mendiv{
+    display: none;
+}
+.womendiv{
+    display: none;
+    border: 10px red;
 }
 .column ul li{
     list-style-type: none;
 }
 
 hr{
+padding-left: 50px;
     width: 65%;
 }
